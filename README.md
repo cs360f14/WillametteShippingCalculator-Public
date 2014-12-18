@@ -1,5 +1,11 @@
 WillametteShippingCalculator
 ============================
+
+This repository is used to demonstrate how to hook up GitHub with Travis-CI.
+
+http://zeus.cs.pacificu.edu/chadd/cs360f14/Lectures/CI.pdf
+
+
 * Items (Cost, Weight, Title, fs)
 * Standard Shipping Cost Calculation
   * .1-1 pounds $5
